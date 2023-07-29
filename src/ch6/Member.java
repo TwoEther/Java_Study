@@ -5,7 +5,7 @@ package ch6;
     Member(name, id, password, age)
  */
 
-public class Member {
+class Member {
 
     private String password = "";
     private int age = 19;
